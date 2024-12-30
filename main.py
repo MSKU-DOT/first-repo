@@ -1,3 +1,3 @@
 #main.py
 
-print("Hello World")
+print("Gandalf")
